@@ -1,0 +1,2 @@
+# kazeku
+Kazeku safelink
